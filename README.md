@@ -5,7 +5,7 @@ This is a lightweight audio player built in Go that utilizes the `faiface` packa
 ## Features
 - Decodes and plays audio using the `faiface` package
 - Provides a terminal-based interface with `tcell`
-- Supports common audio formats
+- Supports common audio formats, mp3 and wav.
 - Minimal dependencies for a lightweight experience
 
 ## Installation
@@ -17,7 +17,8 @@ This is a lightweight audio player built in Go that utilizes the `faiface` packa
    ```
 3. Install dependencies:
    ```sh
-   go get ./...
+   go get github.com/faiface/beep
+   go get github.com/gdamore/tcell/v2
    ```
 4. Build and run the project:
    ```sh
