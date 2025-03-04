@@ -12,8 +12,8 @@ This is a lightweight audio player built in Go that utilizes the `faiface` packa
 1. Ensure you have [Go](https://go.dev/dl/) installed on your system.
 2. Clone this repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-name>
+   git clone [<repository-url>](https://github.com/Shreedeepdatta/audioplayer)
+   cd audioplayer
    ```
 3. Install dependencies:
    ```sh
