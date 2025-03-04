@@ -30,7 +30,7 @@ This is a lightweight audio player built in Go that utilizes the `faiface` packa
 
 ## Dependencies
 - [`faiface/beep`](https://github.com/faiface/beep) - Audio processing and playback
-- [`tcell`](https://github.com/gdamore/tcell) - Terminal-based UI handling
+- [`tcell`](https://github.com/gdamore/tcell) - For handling Key events and input from user
 
 ## Contributing
 Feel free to open issues or submit pull requests to improve the project.
